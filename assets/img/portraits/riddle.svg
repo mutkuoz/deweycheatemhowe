@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 250" role="img" aria-label="Silhouette portrait of Tom Marvolo Riddle as a young man, in profile">
+  <defs><clipPath id="o-riddle"><ellipse cx="100" cy="125" rx="92" ry="117"/></clipPath></defs>
+  <ellipse cx="100" cy="125" rx="98" ry="123" fill="none" stroke="#B4955A" stroke-width="1.4"/>
+  <ellipse cx="100" cy="125" rx="92" ry="117" fill="#ECE8DE"/>
+  <g clip-path="url(#o-riddle)">
+    <g transform="translate(17 32) scale(.84)">
+    <path fill="#15231D" d="M 74 162 C 64 144, 57 124, 57 102 C 56 70, 70 44, 98 35 C 118 28, 140 32, 151 44 C 156 50, 155 57, 148 60 C 152 66, 152 76, 152 86 C 152 91, 152 95, 154 99 C 153 101, 152 102, 151 104 C 155 112, 159 119, 162 124 C 163 127, 160 129, 156 129 C 154 130, 154 132, 155 134 C 156 137, 154 139, 152 140 C 154 142, 153 145, 151 146 C 149 148, 149 150, 150 153 C 152 158, 149 162, 143 164 C 136 166, 129 166, 125 168 C 123 175, 123 182, 124 188 L 133 196 L 130 184 C 150 202, 182 218, 198 300 L 2 300 C 8 236, 32 204, 70 196 C 75 186, 76 174, 74 162 Z"/>
+    <g fill="none" stroke="#ECE8DE" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" opacity=".7">
+      <path d="M 133 196 L 150 250" />
+      <path d="M 126 190 L 128 200 C 130 214, 132 232, 134 260" />
+    </g>
+    </g>
+  </g>
+  <ellipse cx="100" cy="125" rx="92" ry="117" fill="none" stroke="#B4955A" stroke-width=".6"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 250" role="img" aria-label="Silhouette portrait of J. Oswald White in profile, with a flower in his lapel">
+  <defs><clipPath id="o-white"><ellipse cx="100" cy="125" rx="92" ry="117"/></clipPath></defs>
+  <ellipse cx="100" cy="125" rx="98" ry="123" fill="none" stroke="#B4955A" stroke-width="1.4"/>
+  <ellipse cx="100" cy="125" rx="92" ry="117" fill="#ECE8DE"/>
+  <g clip-path="url(#o-white)">
+    <g transform="translate(17 32) scale(.84)">
+    <path fill="#15231D" d="M 82 172 L 72 190 L 70 176 L 56 186 L 58 170 L 44 172 L 52 158 C 47 140, 48 118, 52 100 C 50 70, 62 46, 84 38 C 96 24, 120 16, 142 22 C 156 26, 165 38, 160 50 C 158 56, 153 60, 148 62 C 151 72, 152 82, 153 90 C 154 95, 155 98, 158 101 C 157 104, 155 106, 153 108 C 158 117, 165 126, 172 134 C 173 137, 168 139, 162 138 C 159 139, 159 141, 160 143 C 163 146, 163 148, 158 149 L 151 150 L 158 152 C 160 153, 159 156, 156 157 C 153 159, 153 161, 155 165 C 160 172, 157 181, 147 182 C 139 183, 132 180, 127 182 C 125 186, 125 190, 125 196 L 136 206 L 132 194 C 150 206, 182 218, 198 300 L 2 300 C 8 236, 32 204, 74 198 C 78 190, 80 182, 82 172 Z"/>
+    <g fill="none" stroke="#ECE8DE" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" opacity=".7">
+      <path d="M 136 206 L 152 246" />
+      <g transform="translate(144 222)" stroke="none" fill="#ECE8DE">
+        <circle r="2.6"/>
+        <ellipse cx="0" cy="-6" rx="2.4" ry="4.2"/>
+        <ellipse cx="0" cy="6" rx="2.4" ry="4.2"/>
+        <ellipse cx="-6" cy="0" rx="4.2" ry="2.4"/>
+        <ellipse cx="6" cy="0" rx="4.2" ry="2.4"/>
+        <ellipse cx="4.3" cy="-4.3" rx="2.2" ry="4" transform="rotate(45 4.3 -4.3)"/>
+        <ellipse cx="-4.3" cy="4.3" rx="2.2" ry="4" transform="rotate(45 -4.3 4.3)"/>
+        <ellipse cx="-4.3" cy="-4.3" rx="2.2" ry="4" transform="rotate(-45 -4.3 -4.3)"/>
+        <ellipse cx="4.3" cy="4.3" rx="2.2" ry="4" transform="rotate(-45 4.3 4.3)"/>
+      </g>
+      <circle cx="144" cy="222" r="2" fill="#15231D" stroke="none"/>
+    </g>
+    </g>
+  </g>
+  <ellipse cx="100" cy="125" rx="92" ry="117" fill="none" stroke="#B4955A" stroke-width=".6"/>
+</svg>

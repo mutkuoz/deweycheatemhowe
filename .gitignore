@@ -1,0 +1,11 @@
+# Local session notes and tool output: never publish
+.remember/
+.playwright-mcp/
+.claude/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/

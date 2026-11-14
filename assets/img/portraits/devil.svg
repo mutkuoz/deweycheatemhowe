@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 250" role="img" aria-label="Silhouette portrait of The Devil, in profile, horns and goatee">
+  <defs><clipPath id="o-devil"><ellipse cx="100" cy="125" rx="92" ry="117"/></clipPath></defs>
+  <ellipse cx="100" cy="125" rx="98" ry="123" fill="none" stroke="#B4955A" stroke-width="1.4"/>
+  <ellipse cx="100" cy="125" rx="92" ry="117" fill="#ECE8DE"/>
+  <g clip-path="url(#o-devil)">
+    <g transform="translate(17 32) scale(.84)">
+    <path fill="#15231D" d="M 72 160 C 62 140, 55 120, 56 98 C 57 66, 78 44, 108 41 C 134 40, 149 56, 151 76 C 152 84, 151 88, 154 93 C 155 96, 153 99, 151 101 C 155 110, 161 118, 165 125 C 166 129, 162 131, 157 130 C 155 131, 155 133, 156 135 C 157 138, 155 140, 153 141 C 155 143, 154 146, 152 147 C 150 149, 150 151, 151 154 C 154 166, 159 176, 162 190 C 150 184, 136 174, 126 170 C 123 178, 123 188, 125 196 L 137 210 L 132 196 C 150 206, 182 218, 198 300 L 2 300 C 8 236, 32 204, 70 196 C 74 186, 74 172, 72 160 Z M 118 45 C 123 32, 131 20, 142 6 C 140 22, 136 36, 134 50 Z M 86 50 C 83 36, 86 24, 95 13 C 94 27, 96 38, 101 45 Z"/>
+    <g fill="none" stroke="#ECE8DE" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" opacity=".7">
+      <path d="M 137 210 L 150 244" />
+    </g>
+    </g>
+  </g>
+  <ellipse cx="100" cy="125" rx="92" ry="117" fill="none" stroke="#B4955A" stroke-width=".6"/>
+</svg>

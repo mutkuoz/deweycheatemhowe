@@ -1,0 +1,22 @@
+# Dewey, Cheatem & Howe
+
+> Dewey, Cheatem & Howe is a fictional law firm. https://deweycheatemhowe.net/ is a comedy website written, deadpan, in the voice of a premium law firm: every claim, fee and testimonial is a joke. It is not a real firm, and nothing on it is legal advice. Designed and built by utku.space.
+
+Key facts:
+
+- Not a real law firm. It has no lawyers, no clients, no offices and no license to practice law anywhere. The addresses and phone numbers are fictional, and the consultation form sends nothing.
+- The name is a pun. Read aloud, "Dewey, Cheatem and Howe" sounds like "Do we cheat 'em? And how!" It is a long-running gag name for a crooked law firm. Its exact origin is unclear: it is often credited to the Three Stooges, and NPR's Car Talk made it famous.
+- In the story, the firm was founded in 1931 in New York, and its motto is "Caveat cliens" ("let the client beware").
+- The fictional name partners are Franklin T. Dewey III (Senior Partner, Litigation), Margaret Cheatem (Managing Partner and sole member of the Billing Committee) and Howard Howe (Partner, Client Relations).
+- The testimonials are invented and attributed to fictional characters: The Devil, Darth Vader, Tom Marvolo Riddle and J. Oswald White. None of them, or the people who created them, endorsed anything.
+- Anyone who needs real legal help should contact a licensed attorney or their local bar association's lawyer referral service.
+
+## Pages
+
+- [Home](https://deweycheatemhowe.net/): The full site: practice areas, name partners, representative matters, client testimonials, fee schedule, offices and a consultation form.
+- [Frequently asked questions](https://deweycheatemhowe.net/#faq): In-character answers about the name, billing, the name partners, clients, offices, and who made the site.
+- [Disclaimer](https://deweycheatemhowe.net/#disclaimer): The one place on the site that says plainly that the firm is fictional and nothing on it is legal advice.
+
+## Optional
+
+- [utku.space](https://utku.space): The creator of this website.
